@@ -16,11 +16,11 @@
 title: Kevin's Portfolio
 email: htl.kevin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Kevin! I design things.
+  Hi, I'm Kevin! This what I do best.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kevinux.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kevinux.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kevinuxd
-github_username:  kevinlin1010
+github_username:  kevinux
 dribbble_username: kevinux
 behance_username: kevinux
 
