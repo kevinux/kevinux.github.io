@@ -13,19 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kevin's UX Portfolio
+title: Kevin UX Notebook
 email: htl.kevin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Stay tuned while I make my UX site awesome!
-  I am looking to connect with those who are transitioning into the
+  Stay tuned while I make my UX portfolio awesome!
+  By the way, I am looking to connect with those who are transitioning into the
   UX profession and seeking peer mentorship to build up your portfolio.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kevinux.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kevinuxd
 github_username:  kevinux
-dribbble_username: kevinux
-behance_username: kevinux
 
 # Project URL
 permalink:	/work/:title/
@@ -33,7 +31,7 @@ permalink:	/work/:title/
 # Build settings
 markdown: kramdown
 theme: jekyll-swiss
-theme_color: white
+theme_color: red
 plugins:
   - jekyll-feed
 
